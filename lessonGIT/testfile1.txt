@@ -1,10 +1,8 @@
-ppyyyy
-oooooo
-12121121212dnkk
-sd333333333333333333333dnvkd
-222454555555
-ookkkkkkkkkkkk
-oooooo
-o
-33333333
-trtrtrtrtrtrtrtrt
+<<<<<<< HEAD
+=======
+jvjjvjvjvjjvjvjhvjhj
+wjjnjnesdbvksdnkk
+sdjvnkdvkdnvkd
+nnnnvvvvvvvvvv
+rrrrrrrrrrrr
+>>>>>>> branch2
